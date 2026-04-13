@@ -1,0 +1,4 @@
+Credit Risk Assessment Report
+=============================
+Models trained: Decision Tree, Random Forest, Logistic Regression
+Evaluation completed.
